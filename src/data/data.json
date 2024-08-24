@@ -1,100 +1,83 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Your Event, Our Expertise",
+    "paragraph": "Professional Event Solutions for Your Every Need"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "PT. GODIVA SURYA ABADI specializes in the events and exhibitions industry, providing everything needed for a successful event. Despite being a newly established company, our team consists of experienced professionals who have successfully managed both national and international events, such as INDOLIVESTOCK, IIMS, and GIIAS. Our motto, ``We stand for your excellence,`` drives us to deliver the best to our clients."
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Special Booth Kementerian Pertahanan at INDODEFENCE 2024",
+      "largeImage": "img/portfolio/kemham.png",
+      "smallImage": "img/portfolio/kemham.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Hidea Outboard Engine at Indonesia International Motor Show (IIMS) 2024.",
+      "largeImage": "img/portfolio/hidea.png",
+      "smallImage": "img/portfolio/hidea.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Suzuki Marine at Deep & Extreme Indonesia (DXI) 2024.",
+      "largeImage": "img/portfolio/suzuki.png",
+      "smallImage": "img/portfolio/suzuki.png"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "material-symbols:camping",
+      "name": "Sarnafil Tent",
+      "text": ""
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "material-symbols:camping",
+      "name": "Roders Tent",
+      "text": ""
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "material-symbols:camping",
+      "name": "Tratak Tent",
+      "text": ""
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "bi:postage-fill",
+      "name": "Stage Rigging",
+      "text": ""
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "mingcute:drawing-board-fill",
+      "name": "Billboard Rigging",
+      "text": ""
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "game-icons:crypt-entrance",
+      "name": "Ringging Entrance",
+      "text": ""
+    },
+    {
+      "icon": "game-icons:red-carpet",
+      "name": "Carpet",
+      "text": ""
+    },
+    {
+      "icon": "icon-park-solid:booth",
+      "name": "Bazzar Booth",
+      "text": ""
+    },
+    {
+      "icon": "ic:round-table-bar",
+      "name": "Round Table",
+      "text": ""
+    },
+    {
+      "icon": "healthicons:market-stall",
+      "name": "Maxima Stand",
+      "text": ""
+    },
+    {
+      "icon": "clarity:design-solid",
+      "name": "Layout Design",
+      "text": ""
     }
   ],
   "Testimonials": [
@@ -131,37 +114,37 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/rudi.png",
+      "name": "Ir. Rudy Go, MT",
+      "job": "President Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/doni.png",
+      "name": "Ir. Dony Charles Tampubolon",
+      "job": "Managing Director"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/fenny.png",
+      "name": "Fenny I. Oetomo",
+      "job": "Commissioner"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/hadi.png",
+      "name": "Hadi Yunanto",
+      "job": "General Manager"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "TAMAN ASRI BLOK J.9 NO 5, Desa/Kelurahan Cipadu Jaya, Kec. Larangan, Kota Tangerang, Provinsi Banten, Kode Pos: 15155",
+    "phone": "+62 813-5417-865",
+    "email": "godivasuryaabadi@gmail.com",
+    "facebook": "https://web.facebook.com/profile.php?id=61561895842196&mibextid=ZbWKwL&_rdc=1&_rdr",
+    "instagram" : "https://www.instagram.com/mediagodiva",
+    "tiktok" : "https://www.tiktok.com/@godiva.media"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "material-symbols:camping",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },

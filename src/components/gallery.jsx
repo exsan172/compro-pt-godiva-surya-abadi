@@ -6,11 +6,7 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+          <h2>Our Projects</h2>
         </div>
         <div className="row">
           <div className="portfolio-items">
@@ -29,6 +25,14 @@ export const Gallery = (props) => {
                 ))
               : "Loading..."}
           </div>
+        </div>
+        <div className="row" style={{ marginTop:20 }}>
+          <a
+            href="mailto:godivasuryaabadi@gmail.com"
+            className="btn btn-custom btn-lg page-scroll"
+          >
+            See More Projects
+          </a>{" "}
         </div>
       </div>
     </div>
