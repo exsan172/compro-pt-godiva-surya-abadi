@@ -13,6 +13,8 @@ export const About = (props) => {
             <div className="about-text">
               <h2>About PT. Godiva Surya Abadi</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
+              <p>{props.data ? props.data.paragraph1 : "loading..."}</p>
+              <p>{props.data ? props.data.paragraph2 : "loading..."}</p>
               <a
                 href="mailto:godivasuryaabadi@gmail.com"
                 className="btn btn-custom btn-lg page-scroll"

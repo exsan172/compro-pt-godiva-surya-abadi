@@ -4,15 +4,15 @@
     "paragraph": "Professional Event Solutions for Your Every Need"
   },
   "About": {
-    "paragraph": "PT GODIVA SURYA ABADI is a company that specializes in the events and exhibits industry, and the company provides the event's organizer everything they need.
-    Despite the fact that the company has only been established this year, our team includes experts with experiences in this field—events and exhibitions—and we are capable of handling every requirement with professionalism.
-    We successfully handle several national and international events, including INDOLIVESTOCK, IIMS, and GIIAS, etc. Our company stands to support the organizers of events and exhibitions with professionals. We are here for your absolute excellence is our, 'We stand for your excellent' is our motto and our motivation to always give the best to our clients."
+    "paragraph": "PT GODIVA SURYA ABADI is a company that specializes in the events and exhibits industry, and the company provides the event's organizer everything they need.",
+    "paragraph1": "Despite the fact that the company has only been established this year, our team includes experts with experiences in this field—events and exhibitions—and we are capable of handling every requirement with professionalism.",
+    "paragraph2": "We successfully handle several national and international events, including INDOLIVESTOCK, IIMS, and GIIAS, etc. Our company stands to support the organizers of events and exhibitions with professionals. We are here for your absolute excellence is our, 'We stand for your excellent' is our motto and our motivation to always give the best to our clients."
   },
   "Gallery": [
     {
-      "title": "Special Booth Kementerian Pertahanan at INDODEFENCE 2024",
-      "largeImage": "img/portfolio/kemham.png",
-      "smallImage": "img/portfolio/kemham.png"
+      "title": "Moto GP Mandalika",
+      "largeImage": "img/portfolio/motogp.png",
+      "smallImage": "img/portfolio/motogp.png"
     },
     {
       "title": "Hidea Outboard Engine at Indonesia International Motor Show (IIMS) 2024.",
@@ -20,9 +20,14 @@
       "smallImage": "img/portfolio/hidea.png"
     },
     {
-      "title": "Suzuki Marine at Deep & Extreme Indonesia (DXI) 2024.",
-      "largeImage": "img/portfolio/suzuki.png",
-      "smallImage": "img/portfolio/suzuki.png"
+      "title": "GIIAS",
+      "largeImage": "img/portfolio/gias.png",
+      "smallImage": "img/portfolio/gias.png"
+    },
+    {
+      "title": "HUT RI IKN",
+      "largeImage": "img/portfolio/hutri.png",
+      "smallImage": "img/portfolio/hutri.png"
     }
   ],
   "Services": [
