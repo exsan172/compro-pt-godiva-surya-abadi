@@ -16,7 +16,8 @@ export const About = (props) => {
               <p>{props.data ? props.data.paragraph1 : "loading..."}</p>
               <p>{props.data ? props.data.paragraph2 : "loading..."}</p>
               <a
-                href="mailto:godivasuryaabadi@gmail.com"
+                href="https://drive.google.com/file/d/1U3aD5Yi7e93g2FtKnCgS6Q7bg_vNbHTJ/view?usp=drive_link"
+                target="_blank"
                 className="btn btn-custom btn-lg page-scroll"
               >
                 Learn More About Us

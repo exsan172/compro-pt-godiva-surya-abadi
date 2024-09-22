@@ -22,14 +22,14 @@ export const Services = (props) => {
               ))
             : "loading"}
         </div>
-        <div className="row mt-2">
+        {/* <div className="row mt-2">
           <a
             href="mailto:godivasuryaabadi@gmail.com"
             className="btn btn-custom btn-lg page-scroll"
           >
             Explore Our Services
           </a>{" "}
-        </div>
+        </div> */}
       </div>
     </div>
   );

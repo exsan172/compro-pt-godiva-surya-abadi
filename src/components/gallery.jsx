@@ -28,7 +28,8 @@ export const Gallery = (props) => {
         </div>
         <div className="row" style={{ marginTop:20 }}>
           <a
-            href="mailto:godivasuryaabadi@gmail.com"
+            href="https://drive.google.com/drive/folders/1NQ0x3ERkOxopyrI1FjkcUIe68n7uLnRk?usp=drive_link"
+            target="_blank"
             className="btn btn-custom btn-lg page-scroll"
           >
             See More Projects

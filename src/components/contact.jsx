@@ -43,18 +43,23 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
+                    <a href={props.data ? props.data.facebook : "/"} target="_blank">
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.instagram : "/"}>
+                    <a href={props.data ? props.data.instagram : "/"} target="_blank">
                       <i className="fa fa-instagram"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.tiktok : "/"}>
+                    <a href={props.data ? props.data.tiktok : "/"} target="_blank">
                       <Icon icon="ic:twotone-tiktok" className="icon-contact"/>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.enter_email : "/"} target="_blank">
+                      <Icon icon="material-symbols:mail-lock" className="icon-contact"/>
                     </a>
                   </li>
                 </ul>

@@ -14,7 +14,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="mailto:godivasuryaabadi@gmail.com"
+                  href="mailto:official@godivasolution.com"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Get in Touch
